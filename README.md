@@ -12,3 +12,4 @@ The STAR stands for:
 ## Below are the topics covered in this repository:
 
 - [AWS RDS vs EC2 Hosted Database](./SelfHosted-or-ManagedDatabase.md)
+- [AWS EKS vs Lambda API Gateway](./EKS-or-Lambda-ApiGateway.md)
